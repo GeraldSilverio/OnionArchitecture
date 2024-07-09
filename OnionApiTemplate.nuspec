@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>OnionApiTemplate</id>
+    <version>1.0.0</version>
+    <authors>Gerald Silverio</authors>
+    <owners>Gerald Silverio</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Template for an Onion Architecture Web API with Identity, Entity Framework, AutoMapper, CQRS, and Mediator.</description>
+    <tags>template C# OnionArchitecture WebAPI</tags>
+  </metadata>
+  <files>
+    <file src="**\*.*" target="content\OnionApiTemplate" />
+  </files>
+</package>
